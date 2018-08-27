@@ -6,50 +6,51 @@ langs:
   pl: Polski
   fr: Français
   ar: العربية
+  de: Deutsch
 
 global:
-  date: '%Y/%m/%d'
+  date: '%d.%m.%Y'
   monero: Monero
-  getting_started: Getting Started
+  getting_started: Einstieg
   copyright: Copyright
   monero_project: The Monero Project
   sitename: getmonero.org, The Monero Project
   wiki: Moneropedia
-  tags: Articles By Tag
-  wikimeta: on Moneropedia, the open encyclopedia of Monero knowledge
-  tagsmeta: All Monero blog articles that are tagged
-  titlemeta: on the home of Monero, a digital currency that is secure, private, and untraceable
-  terms: Terms
-  privacy: Privacy
+  tags: Artikel nach Rubrik
+  wikimeta: auf Moneropedia, der freien Encyclopädie über Monero
+  tagsmeta: Alle Monero Blog Artikel mit eingetragener Rubrik
+  titlemeta: das Zuhause von Monero, eine digital Währung die sicher, privat und nicht verfolgbar ist
+  terms: Terms #TODO CHECK
+  privacy: Privatsspähre
   copyright: Copyright
-  untranslated: This page is not yet translated. If you would like to help translate it, please see the
-  outdatedMax: This page is outdated. We do not recommend using it. Instead, please see the
-  outdatedVersion: english version
-  outdatedMin: This page has been updated since the translation. You can use this version, but it may be incomplete.
+  untranslated: Diese Seite ist noch nicht übersetzt. Falls du beim Übersetzen helfen willst, besuche bitte die #TODO Check gender
+  outdatedMax: Diese Seite ist veraltet. Wir empfehlen, sie nicht zu benutzen. Stattdessen, besuch bitte die #TODO chec kgender
+  outdatedVersion: englische Version
+  outdatedMin: Diese Seite wurde verändert seit sie das letzte mal übersetzt wurde. Diese Version ist verwendbar, könnte aber unvollständig sein.
   lang_tag: "@lang_tag_en"
 
 titles:
-  index: Home
-  whatismonero: What is Monero (XMR)?
-  using: Using Monero
-  accepting: Accepting Monero
-  contributing: Improving Monero
-  mining: Mining Monero
+  index: Wilkommen
+  whatismonero: Was ist Monero (XMR)?
+  using: Monero benutzen
+  accepting: Monero akzeptieren
+  contributing: Monero helfen
+  mining: Monero minen
   faq: FAQ
   downloads: Downloads
-  allposts: All Blog Posts
+  allposts: Alle Blogbeiträge
   team: Monero Team
   hangouts: Hangouts
   events: Events
-  sponsorships: Sponsorships
-  merchants: Merchants & Services
-  about: About Monero
+  sponsorships: Förderungen
+  merchants: Händler & Dienstleister
+  about: Über Monero
   roadmap: Roadmap
   researchlab: Monero Research Lab
   moneropedia: Moneropedia
-  userguides: User Guides
-  developerguides: Developer Guides
-  technicalspecs: Technical Specs
+  userguides: Benutzerhandbuch
+  developerguides: Entwicklerhandbuch
+  technicalspecs: Technische Daten
   themoneroproject: The Monero Project
   presskit: Monero Press Kit
   legal: Legal
